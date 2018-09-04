@@ -42,6 +42,10 @@ After completing the prerequisites, follow the steps below to configure a virtua
 4. run `virtualbox` to open the virtualbox UI and click on the `show` button to open your windows OS
    
    <img src="http://res.cloudinary.com/sannikay/image/upload/v1535883719/server-setup_pvdwmx.png">
+   
+   <img src="https://res.cloudinary.com/sannikay/image/upload/v1536072316/window_setup_y5qjuc.png">
+   
+   <img src="https://res.cloudinary.com/sannikay/image/upload/v1536072556/launch_zopxbg.png">
  
 When we run `vagrant up`, vagrant checks for a `Vagrantfile`. Vagrantfile is a configuration file for vagrant, here we specified an existing windows OS vagrant box.
 
